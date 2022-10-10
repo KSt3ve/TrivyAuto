@@ -13,4 +13,4 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@master
       - name: tfsec
-        uses: bridgecrewio/terragoat
+        uses: bridgecrewio/terragoat@latest
